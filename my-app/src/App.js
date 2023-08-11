@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import React from 'react';
 
 import EnrollPage from './components/EnrollPage/Index.jsx'
@@ -9,12 +9,12 @@ import './App.css'
 
 const App=()=>(
     <BrowserRouter>
-      <Switch>
-        <Route exact path="/" component={EnrollPage} />
-        <Route exact path="/details" component={DetailsPage} />
-        <Route exact path="/thankyou" component={ThankYouPage} />
-        <Route component={NotFound} />
-      </Switch>
+      <Routes>
+        <Route exact path="/" element={<EnrollPage/>} />
+        <Route exact path="/details" element={<DetailsPage/>} />
+        <Route exact path="/thankyou/:name/:age" element={<ThankYouPage/>} />
+        <Route element={<NotFound/>} />
+      </Routes>
     </BrowserRouter>
   )
 

@@ -14,4 +14,24 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: cyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.enroll-btn{
+    height: 50px;
+    width: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+}
+.enroll-btn:hover{
+    background-color: #000;
+    color: #fff;
 }
