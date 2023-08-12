@@ -10,9 +10,9 @@ import './App.css'
 const App=()=>(
     <BrowserRouter>
       <Routes>
-        <Route exact path="/" element={<EnrollPage/>} />
-        <Route exact path="/details" element={<DetailsPage/>} />
-        <Route exact path="/thankyou/:name/:age" element={<ThankYouPage/>} />
+        <Route exact path="https://abhijith-kota.github.io/Student-Info-System-chat-bot/" element={<EnrollPage/>} />
+        <Route exact path="https://abhijith-kota.github.io/Student-Info-System-chat-bot/details" element={<DetailsPage/>} />
+        <Route exact path="https://abhijith-kota.github.io/Student-Info-System-chat-bot/:name/:age" element={<ThankYouPage/>} />
         <Route element={<NotFound/>} />
       </Routes>
     </BrowserRouter>

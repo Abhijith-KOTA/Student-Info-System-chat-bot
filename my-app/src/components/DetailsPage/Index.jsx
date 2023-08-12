@@ -20,7 +20,7 @@ class DetailsPage extends Component{
         const { shutDownCount, name, age } = this.state;
         if (shutDownCount === 0) {
             clearInterval(this.interval);
-            window.location.replace(`/thankyou/${name}/${age}`);
+            window.location.replace(`https://abhijith-kota.github.io/Student-Info-System-chat-bot/thankyou/${name}/${age}`);
         }
     }
     
