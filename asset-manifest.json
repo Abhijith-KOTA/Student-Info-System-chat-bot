@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Abhijith-KOTA.github.io/react-gh-pages/static/css/main.92a17c69.css",
-    "main.js": "/Abhijith-KOTA.github.io/react-gh-pages/static/js/main.007e5fcb.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Abhijith-KOTA.github.io/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Abhijith-KOTA.github.io/react-gh-pages/index.html",
-    "main.92a17c69.css.map": "/Abhijith-KOTA.github.io/react-gh-pages/static/css/main.92a17c69.css.map",
-    "main.007e5fcb.js.map": "/Abhijith-KOTA.github.io/react-gh-pages/static/js/main.007e5fcb.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Abhijith-KOTA.github.io/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Student-Info-System-chat-bot/static/css/main.92a17c69.css",
+    "main.js": "/Student-Info-System-chat-bot/static/js/main.d5f12563.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Student-Info-System-chat-bot/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Student-Info-System-chat-bot/index.html",
+    "main.92a17c69.css.map": "/Student-Info-System-chat-bot/static/css/main.92a17c69.css.map",
+    "main.d5f12563.js.map": "/Student-Info-System-chat-bot/static/js/main.d5f12563.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Student-Info-System-chat-bot/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92a17c69.css",
-    "static/js/main.007e5fcb.js"
+    "static/js/main.d5f12563.js"
   ]
 }
