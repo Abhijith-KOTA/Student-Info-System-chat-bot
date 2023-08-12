@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Student-Info-System-chat-bot/static/css/main.92a17c69.css",
-    "main.js": "/Student-Info-System-chat-bot/static/js/main.d5f12563.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Student-Info-System-chat-bot/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/Student-Info-System-chat-bot/static/js/main.72e412ca.js",
+    "static/js/787.42848ff8.chunk.js": "/Student-Info-System-chat-bot/static/js/787.42848ff8.chunk.js",
     "index.html": "/Student-Info-System-chat-bot/index.html",
     "main.92a17c69.css.map": "/Student-Info-System-chat-bot/static/css/main.92a17c69.css.map",
-    "main.d5f12563.js.map": "/Student-Info-System-chat-bot/static/js/main.d5f12563.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Student-Info-System-chat-bot/static/js/787.28cb0dcd.chunk.js.map"
+    "main.72e412ca.js.map": "/Student-Info-System-chat-bot/static/js/main.72e412ca.js.map",
+    "787.42848ff8.chunk.js.map": "/Student-Info-System-chat-bot/static/js/787.42848ff8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92a17c69.css",
-    "static/js/main.d5f12563.js"
+    "static/js/main.72e412ca.js"
   ]
 }
