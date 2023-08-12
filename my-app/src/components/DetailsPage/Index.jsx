@@ -47,10 +47,9 @@ class DetailsPage extends Component{
 
     AskAge=()=>{
         const ageRange=Array.from({ length: 40 - 18 + 1 }, (_, index) => index + 17);
-        console.log(ageRange)
 
         return (
-            <select onChange={this.renderAge}>
+            <select className="age-input"  onChange={this.renderAge}>
             <option value="0">Select your age</option>
             {ageRange.map(each=>(<option key={each} value={`${each+1}`}>{each+1}</option>))}
             
